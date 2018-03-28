@@ -1,0 +1,22 @@
+{
+  "name": "gitbook-plugin-theme-api-dou",
+  "version": "1.0.0",
+  "description": "Theme for using GitBook to publish an API documentation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doosee/gitbook-plugin-theme-api-doo.git"
+  },
+  "author": "dou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/doosee/gitbook-plugin-theme-api-doo/issues"
+  },
+  "homepage": "https://github.com/doosee/gitbook-plugin-theme-api-doo#readme",
+  "engines": {
+    "gitbook": ">=3.0.4"
+  }
+}
